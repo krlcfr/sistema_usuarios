@@ -3,8 +3,10 @@
 Proyecto integrador.
 Santiago Pinzon Gallego
 Ficha 3114227
-  
+
 Aplicación de consola en Python que permite registrar, listar y buscar usuarios, construida con entornos virtuales, variables de entorno y estructura modular.
+
+Adjunto el enlace del video https://youtu.be/IGndVi1Mk08
 
 ---
 
@@ -59,7 +61,7 @@ pip install uv
 **1. Clonar el repositorio**
 
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/krlcfr/sistema_usuarios.git>
 cd sistema_usuarios
 ```
 
